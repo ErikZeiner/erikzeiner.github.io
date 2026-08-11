@@ -10,25 +10,25 @@ calendar: false
 
 ### Lectures & Seminars
 
-#### Summer Term 2025
+##### Summer Term 2025
 
 - **Causal Cognition & Probabilistic Language Understanding**, Marking
 - **Semantics & Pragmatics**, Tutoring and Marking
 - **Text Technology**, Assessment Design, Tutoring and Marking
 
-#### Winter Term 2024/2025
+##### Winter Term 2024/2025
 
 - **Introduction to Logic**, Assessment design, Tutoring and Marking
 - **Data Structures and Algorithms III** (Python), Tutoring and Marking
 - **Statistical Methods for NLP I**, Assessment Design
 
-#### Summer Term 2024
+##### Summer Term 2024
 
 - **Semantics & Pragmatics**, Tutoring and Marking
 - **Text Technology**, Assessment Design, Tutoring and Marking
 - **Data Structures and Algorithms II** (Java), Tutoring and Marking
 
-#### Winter Term 2023/2024
+##### Winter Term 2023/2024
 
 - **Introduction to Logic**, Assessment design, Tutoring and Marking
 - **Data Structures and Algorithms I** (Java), Tutoring and Marking

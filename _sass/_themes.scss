@@ -1,4 +1,6 @@
 :root {
+  --global-text-color: #000000;
+  --global-text-color-light: #555555;
   --global-bg-color: #f4f4f4;
   --global-card-bg-color: #ffffff;
   --global-code-bg-color: #e8e8e8;
@@ -8,6 +10,8 @@
 }
 
 html[data-theme="dark"] {
+  --global-text-color: #e8e8e6;
+  --global-text-color-light: #a0a09e;
   --global-bg-color: #1a1a1a;
   --global-card-bg-color: #242424;
   --global-code-bg-color: #262626;

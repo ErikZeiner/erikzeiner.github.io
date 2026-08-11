@@ -9,7 +9,7 @@ profile:
   image: EZ.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>erik [dot] zeiner [at] uni-tuebingen [dot] de</p>
+    <p>erik[dot]zeiner[at]uni-tuebingen[dot]de</p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
