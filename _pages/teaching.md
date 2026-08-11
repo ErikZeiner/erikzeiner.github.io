@@ -8,7 +8,6 @@ nav_order: 6
 calendar: false
 ---
 
-
 ## Lectures & Seminars
 
 ### Summer Term 2025:
