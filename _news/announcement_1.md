@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We presented a poster on our AI-agent system for psychotherapeutic competency training at *Tübingen's Faculty of Science Day*.
+We presented a poster on our AI-agent system for psychotherapeutic competency training at _Tübingen's Faculty of Science Day_.
