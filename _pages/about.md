@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Causal Cognition • Semantics & Pragmatics of Causal Language
+subtitle: • Causal Cognition • Semantics & Pragmatics of Causal Language •
 
 profile:
   align: right
@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-intro, communiCause, topic
+I am a PhD student in the [Cognitive Science & Pragmatics Group](https://cogsciprag.github.io/home/) at the University of Tübingen. I am part of the Tübingen–Edinburgh collaborative project *Communicating Causality*, working alongside my supervisor Michael Franke (PI) and Karl Mulligan in Tübingen, together with Dan Lassiter (PI) and Dean McHugh in Edinburgh. My research focuses on using tools from formal and experimental pragmatics to bridge philosophical theories and computational models of causal cognition. Currently, I am mainly working on causal selection and inference.
 
-psych tutor
+In addition, I am working on a joint project with the Department of Psychology in Tübingen, where we are developing an agentic AI skills coach to help students strengthen their psychotherapeutic competencies through generated structured feedback.
 
-other interests
+I am also interested in how information conveyed through different modalities can alter the interpretation of linguistic meaning. Currently, I am working on manual gestures and emoji.
 
-See my full CV
+See my full CV [here](#).
