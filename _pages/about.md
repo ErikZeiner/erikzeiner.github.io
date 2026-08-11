@@ -30,4 +30,4 @@ In addition, I am part of a joint project with the Department of Psychology in T
 
 I am also interested in how information conveyed through different modalities can alter the interpretation of linguistic meaning. Currently, I am working on manual gestures and emoji.
 
-See my full CV [here](#).
+See my full CV [here]().
