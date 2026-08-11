@@ -1,13 +1,17 @@
 :root {
-  --global-bg-color: #f7f7f5;
+  --global-bg-color: #f4f4f4;
   --global-card-bg-color: #ffffff;
-  --global-code-bg-color: #ededea;
-  --global-divider-color: rgba(0, 0, 0, 0.08);
-  --global-theme-color: #0b6e4f;
-  --global-hover-color: #004225;
+  --global-code-bg-color: #e8e8e8;
+  --global-divider-color: rgba(0, 0, 0, 0.1);
+  --global-theme-color: #d2500d;
+  --global-hover-color: #a03a08;
 }
 
 html[data-theme="dark"] {
-  --global-theme-color: #6fcf97;
-  --global-hover-color: #8fdcae;
+  --global-bg-color: #1a1a1a;
+  --global-card-bg-color: #242424;
+  --global-code-bg-color: #262626;
+  --global-divider-color: rgba(255, 255, 255, 0.1);
+  --global-theme-color: #fb923c;
+  --global-hover-color: #fdba8c;
 }
