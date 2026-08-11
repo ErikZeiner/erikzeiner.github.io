@@ -14,7 +14,7 @@ calendar: false
 
 - **Causal Cognition & Probabilistic Language Understanding**, Marking
 - **Semantics & Pragmatics**, Tutoring and Marking
-- **Text Technology**,  Assessment Design, Tutoring and Marking
+- **Text Technology**, Assessment Design, Tutoring and Marking
 
 #### Winter Term 2024/2025
 
