@@ -1,3 +1,13 @@
 :root {
-  --global-theme-color: #004225;
+  --global-bg-color: #f7f7f5;
+  --global-card-bg-color: #ffffff;
+  --global-code-bg-color: #ededea;
+  --global-divider-color: rgba(0, 0, 0, 0.08);
+  --global-theme-color: #0b6e4f;
+  --global-hover-color: #004225;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #6fcf97;
+  --global-hover-color: #8fdcae;
 }
